@@ -1,0 +1,50 @@
+# Python bytecode / caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# OS / editor
+.DS_Store
+Thumbs.db
+Desktop.ini
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Test / tooling caches
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Packaging / builds
+build/
+dist/
+*.egg-info/
+
+# Gradio artifacts
+flagged/
+gradio_cached_examples/
+
+# Vector DB / local persistence (Chroma / SQLite)
+chroma*/
+.chroma*/
+*.sqlite3
+*.db
+
+# Jupyter (if you add notebooks later)
+.ipynb_checkpoints/
