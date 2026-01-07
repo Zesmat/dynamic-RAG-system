@@ -46,5 +46,8 @@ chroma*/
 *.sqlite3
 *.db
 
+# RAG exports / conversation logs
+rag_*.json
+
 # Jupyter (if you add notebooks later)
 .ipynb_checkpoints/
