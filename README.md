@@ -1,6 +1,6 @@
 # Advanced Hybrid RAG System (Gradio)
 
-![The Anatomy of an Advanced RAG System](assets\RAG_floe.jpeg)
+![The Anatomy of an Advanced RAG System](assets\RAG_floe.png)
 
 A multi-thread, document-grounded Q&A app built with Gradio and LangChain. Each thread maintains an isolated Chroma collection, enabling parallel conversations over distinct PDF sets without cross-contamination.
 
