@@ -104,4 +104,4 @@ Note: If the image does not render on GitHub, ensure the file exists at `assets/
 Add a license if you plan to distribute this project.
 
 ## Acknowledgments
-Ziad Esmat, Zeyad Ayman, Tariq Ali
+Ziad Esmat, Zeyad Ayman, Tariq Ali.
