@@ -100,8 +100,6 @@ Note: If the image does not render on GitHub, ensure the file exists at `assets/
 - API keys are read from `.env` locally
 - Uploaded PDFs and vector data remain on your machine unless you expose or share the app
 
-## License
-Add a license if you plan to distribute this project.
 
 ## Acknowledgments
 Ziad Esmat , Zeyad Ayman , Tariq Ali.
